@@ -1,1 +1,1 @@
-# Unix environments bas, configurations, etc.
+# Unix environments bash, configurations, etc.
